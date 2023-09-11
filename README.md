@@ -1,4 +1,4 @@
-# RomanToInteger
+# Algorithms_Leetcode
 Learning and improving my skills in solving leetcode algorithms
 
 List of algorithms:
